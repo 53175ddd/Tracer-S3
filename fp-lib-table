@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/Espresif-addons/Espressif.pretty")(options "")(descr ""))
+  (lib (name "Tracer-S3-components")(type "KiCad")(uri "${KIPRJMOD}/Espresif-addons/Tracer-S3-components.pretty")(options "")(descr ""))
+)
