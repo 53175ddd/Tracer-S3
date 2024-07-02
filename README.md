@@ -18,7 +18,7 @@ JLCPCB の PCBA に対応した，私 [MOS](https://x.com/53175ddd) 作成のオ
 | 部品番号 | 定数 | 秋月 |
 |----|----|----|
 | R2 ~ R6 | 47Ω 1/4W | <https://akizukidenshi.com/catalog/g/g125470/> |
-| R7 ~ R11 | 10kΩ 1/4W | <https://akizukidenshi.com/catalog/g/g125103/> |
+| R7 ~ R11 | 3.3kΩ ~ 4.7kΩ 1/4W | 省略 |
 | SW1, SW2 | タクトスイッチ | <https://akizukidenshi.com/catalog/g/g103648/> |
 | SW3 | DPDT スイッチ | <https://akizukidenshi.com/catalog/g/g102627/> |
 | Q1 | MOSFET | <https://akizukidenshi.com/catalog/g/g107597/> |
